@@ -1,6 +1,6 @@
 # Mac-Style Plasma Widgets
 
-<img width="2560" height="1664" alt="Screenshot_20261119_004813" src="https://github.com/user-attachments/assets/6b49f5f0-4bfb-4068-917a-d50f0949d627" />
+<img width="2560" height="1661" alt="Screenshot_20261119_185832" src="https://github.com/user-attachments/assets/2f548f03-0220-4bd9-afb8-652416fc5f1b" />
 
 
 Calendar, Weather, and News widgets for KDE Plasma 6, styled after the macOS desktop widgets.
